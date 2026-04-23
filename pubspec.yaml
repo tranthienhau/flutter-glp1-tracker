@@ -1,0 +1,21 @@
+name: flutter_glp1_tracker
+description: "PepDose POC - peptide and GLP-1 companion app with reconstitution calculator, protocol library, titration tracker, and dose log."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
