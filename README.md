@@ -2,6 +2,16 @@
 
 Flutter POC for a peptide and GLP-1 companion app (PepDose-style). Reconstitution calculator, GLP-1 dose calculator, protocol library, titration roadmap, and dose log.
 
+## Demo
+
+Real captures from the running app on the iOS Simulator (see [FLOW.md](FLOW.md) for how they were generated).
+
+| Reconstitution calculator | Protocol library | Titration roadmap | Dose log |
+| --- | --- | --- | --- |
+| ![Calculator](screenshots/01-calculator.png) | ![Library](screenshots/02-library.png) | ![Titration](screenshots/03-titration.png) | ![Dose log](screenshots/04-dose-log.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Features
 
 - **Reconstitution calculator**: vial size (mg) + BAC water (ml) -> concentration (mcg/ml)
